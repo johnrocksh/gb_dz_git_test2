@@ -5,3 +5,6 @@ git commit команда создающая коммит
 ## Семинар 2
 
 git branch - вывести все ветки
+
+
+git branch name
