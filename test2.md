@@ -7,8 +7,5 @@ git commit команда создающая коммит
 git branch - вывести все ветки
 
 
-<<<<<<< HEAD
 git branch name2
-=======
 git branch name
->>>>>>> Conflict
