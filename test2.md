@@ -9,3 +9,9 @@ git branch - вывести все ветки
 
 git branch name2
 git branch name
+
+
+#branch3
+git checkout <branch name> команда создает новую ветку с указанным именем
+git checkout -b <branch name > создает новую ветку и переходит на нее
+
