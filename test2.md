@@ -12,6 +12,6 @@ git branch name
 
 
 #branch3
-git checkout <branch name> команда создает новую ветку с указанным именем
+git checkout <branch name> команда служит для перехода между ветками и между комитами
 git checkout -b <branch name > создает новую ветку и переходит на нее
 
